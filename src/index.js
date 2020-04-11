@@ -1,12 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import HeaderEnlaces from './component/HeaderEnlaces'
 import * as serviceWorker from './serviceWorker';
+
+import Navbar from "./component/Navbar"
+import ConoceSobreMi from "./component/ConoceSobreMi"
+import Footer from './component/Footer'
+import ConoceMiPortafolio from './component/ConoceMiPortafolio'
+
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+       <HeaderEnlaces />
+         <Navbar />
+         <br/>
+         <ConoceSobreMi />
+         <br/>
+         <ConoceMiPortafolio/>
+         <br/>
+         <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );

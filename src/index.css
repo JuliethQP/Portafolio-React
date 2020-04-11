@@ -11,3 +11,69 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1, p {
+  font-family: Lato;
+  font-size:15px;
+}
+@media (max-width:360px){
+    #texto-conoce-sobre-mi{
+        text-align: center !important;
+        font-family: 'Roboto Mono', monospace;
+        font-family: 'Poppins', sans-serif;
+      }
+}
+.nombre{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imagen{
+    align-items: right;
+}
+h1{
+    text-align: center;
+}
+.form-group{
+    color: white;
+}
+.icon-list-item
+{
+    list-style: none;
+    justify-content: start !important;
+}
+#texto-conoce-sobre-mi{
+    font-size: 25px;
+    display: flex;
+    justify-content: justify;
+}
+.nav-link{
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.list-group {
+    list-style: none;
+}
+
+#texto-conoce-sobre-mi{
+  text-align: justify;
+  font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+h4,h1,p{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+    font-size:18px;
+}
+h4{
+    font-size: 20px;
+    
+}
+.titulo{
+  font-size:23px;
+}
+#texto-conoce-sobre-mi{
+  font-size:18px;
+}
+
