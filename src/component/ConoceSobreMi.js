@@ -7,7 +7,7 @@ class ConoceSobreMi extends React.Component {
             <Fragment>
                 <div className="container" id="conoce-sobre-mi">
                     <div>
-                        <h1 className="titulo"> <strong> Conoce sobre mi </strong></h1>
+                        <h1 className="titulo"> <strong> About me </strong></h1>
                     </div>
                     <div className="row mr-10 ml-10">
                         <div className="col mr-10 ml-10" >

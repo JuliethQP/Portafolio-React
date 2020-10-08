@@ -15,13 +15,13 @@ class Navbar extends React.Component {
                     <div className="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link text-white" href="#conoce-sobre-mi">Inicio</a>
+                                <a className="nav-link text-white" href="#conoce-sobre-mi">Start</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-white" href="#conoce-portafolio">Experiencia</a>
+                                <a className="nav-link text-white" href="#conoce-portafolio">Experience</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-white" href="#contactame">Contacto</a>
+                                <a className="nav-link text-white" href="#contactame">Contact</a>
                             </li>
                         </ul>
                     </div>

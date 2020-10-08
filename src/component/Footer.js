@@ -5,7 +5,7 @@ class Footer extends React.Component {
     render() {
         return (
             <Fragment>
-                <h1 className="titulo"><strong>Contáctame</strong> </h1>
+                <h1 className="titulo"><strong>Contact me</strong> </h1>
                 <div class="container-fluid bg-dark text-center" id="contactame">
                     <div class="row ">
                         <div class="container  text-center">

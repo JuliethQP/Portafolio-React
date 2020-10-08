@@ -14,13 +14,13 @@ class ConoceMiPortafolio extends React.Component {
             <Fragment>
                 <div className="container" id="conoce-portafolio">
                     <div>
-                        <h1 className="titulo"><strong> Conoce mi portafolio</strong></h1>
+                        <h1 className="titulo"><strong>Portafolio</strong></h1>
                     </div>
                     <div className="row mr-10 ml-10">
                         <div className="col mt-3" id="firstcolum">
                             <div className="card mb-4 shadow-sm" id="card-contenedor">
                                 <div className="card-header">
-                                    <h4 className="my-0 font-weight-normal  text-center">Página Tributo</h4>
+                                    <h4 className="my-0 font-weight-normal  text-center">Tribute page</h4>
                                 </div>
                                 <div className="card-body">
                                     <img className="card-img" src="https://github.com/JuliethQP/Portafolio-reto/blob/master/Madame-Curie-2.jpg?raw=true" alt="" />
@@ -34,7 +34,7 @@ class ConoceMiPortafolio extends React.Component {
                         <div className="col mt-3" id="secondcolumn">
                             <div className="card mb-4 shadow-sm" id="card-contenedor">
                                 <div className="card-header">
-                                    <h4 className="my-0 font-weight-normal  text-center">Página Ventas</h4>
+                                    <h4 className="my-0 font-weight-normal  text-center">Landing page</h4>
                                 </div>
                                 <div className="card-body mx-auto">
                                     <img className="card-img-top  " src={vestido} alt="" />
@@ -48,7 +48,7 @@ class ConoceMiPortafolio extends React.Component {
                         <div className="col mt-3" id="secondcolumn">
                             <div className="card mb-4 shadow-sm" id="card-contenedor">
                                 <div className="card-header">
-                                    <h4 className="my-0 font-weight-normal  text-center">Página Técnica</h4>
+                                    <h4 className="my-0 font-weight-normal  text-center">Technical page</h4>
                                 </div>
                                 <div className="card-body">
                                     <img className="card-img" src={hoja}
@@ -65,7 +65,7 @@ class ConoceMiPortafolio extends React.Component {
                         <div className="col mt-3" id="firstcolum">
                             <div className="card mb-4 shadow-sm" id="card-contenedor">
                                 <div className="card-header">
-                                    <h4 className="my-0 font-weight-normal  text-center">Formulario</h4>
+                                    <h4 className="my-0 font-weight-normal  text-center">Form</h4>
                                 </div>
                                 <div className="card-body">
                                     <img className="card-img" src={formulario} alt="" />
@@ -100,7 +100,7 @@ class ConoceMiPortafolio extends React.Component {
                             <div className="col mt-3" id="firstcolum">
                                 <div className="card mb-4 shadow-sm" id="card-contenedor">
                                     <div className="card-header">
-                                        <h4 className="my-0 font-weight-normal  text-center"> Calculadora</h4>
+                                        <h4 className="my-0 font-weight-normal  text-center"> Calculator</h4>
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={react} alt="" />
@@ -114,7 +114,7 @@ class ConoceMiPortafolio extends React.Component {
                             <div className="col mt-3" id="firstcolum">
                                 <div className="card mb-4 shadow-sm" id="card-contenedor">
                                     <div className="card-header">
-                                        <h4 className="my-0 font-weight-normal  text-center"> Reloj pomodoro</h4>
+                                        <h4 className="my-0 font-weight-normal  text-center">Clock</h4>
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={react} alt="" />
@@ -142,7 +142,7 @@ class ConoceMiPortafolio extends React.Component {
                             <div className="col mt-3" id="firstcolum">
                                 <div className="card mb-4 shadow-sm" id="card-contenedor">
                                     <div className="card-header">
-                                        <h4 className="my-0 font-weight-normal  text-center">Consumo Api</h4>
+                                        <h4 className="my-0 font-weight-normal  text-center">Api consumption</h4>
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={react} alt="" />
