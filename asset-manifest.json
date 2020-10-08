@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Portafolio-React/static/css/main.30027707.chunk.css",
-    "main.js": "/Portafolio-React/static/js/main.d8b2ed71.chunk.js",
-    "main.js.map": "/Portafolio-React/static/js/main.d8b2ed71.chunk.js.map",
+    "main.css": "/Portafolio-React/static/css/main.6c3e00b7.chunk.css",
+    "main.js": "/Portafolio-React/static/js/main.b627c191.chunk.js",
+    "main.js.map": "/Portafolio-React/static/js/main.b627c191.chunk.js.map",
     "runtime-main.js": "/Portafolio-React/static/js/runtime-main.4477fca2.js",
     "runtime-main.js.map": "/Portafolio-React/static/js/runtime-main.4477fca2.js.map",
-    "static/js/2.71a9e559.chunk.js": "/Portafolio-React/static/js/2.71a9e559.chunk.js",
-    "static/js/2.71a9e559.chunk.js.map": "/Portafolio-React/static/js/2.71a9e559.chunk.js.map",
+    "static/js/2.f4f778d6.chunk.js": "/Portafolio-React/static/js/2.f4f778d6.chunk.js",
+    "static/js/2.f4f778d6.chunk.js.map": "/Portafolio-React/static/js/2.f4f778d6.chunk.js.map",
     "index.html": "/Portafolio-React/index.html",
-    "precache-manifest.71f833b193c0627e2cc68b47fac1361c.js": "/Portafolio-React/precache-manifest.71f833b193c0627e2cc68b47fac1361c.js",
+    "precache-manifest.365d39ce63123ad0950d6b4471e42445.js": "/Portafolio-React/precache-manifest.365d39ce63123ad0950d6b4471e42445.js",
     "service-worker.js": "/Portafolio-React/service-worker.js",
-    "static/css/main.30027707.chunk.css.map": "/Portafolio-React/static/css/main.30027707.chunk.css.map",
-    "static/js/2.71a9e559.chunk.js.LICENSE.txt": "/Portafolio-React/static/js/2.71a9e559.chunk.js.LICENSE.txt",
+    "static/css/main.6c3e00b7.chunk.css.map": "/Portafolio-React/static/css/main.6c3e00b7.chunk.css.map",
+    "static/js/2.f4f778d6.chunk.js.LICENSE.txt": "/Portafolio-React/static/js/2.f4f778d6.chunk.js.LICENSE.txt",
     "static/media/Ecopay.jpeg": "/Portafolio-React/static/media/Ecopay.8a8366a4.jpeg",
     "static/media/clonwikipedia.PNG": "/Portafolio-React/static/media/clonwikipedia.16843556.PNG",
     "static/media/formularioimag.PNG": "/Portafolio-React/static/media/formularioimag.75ef13ec.PNG",
     "static/media/hojatecnica.png": "/Portafolio-React/static/media/hojatecnica.0ce65a51.png",
+    "static/media/react.png": "/Portafolio-React/static/media/react.b4fa5570.png",
     "static/media/reto1Equipo.PNG": "/Portafolio-React/static/media/reto1Equipo.2be8be24.PNG",
     "static/media/vestido.png": "/Portafolio-React/static/media/vestido.96c37cc0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4477fca2.js",
-    "static/js/2.71a9e559.chunk.js",
-    "static/css/main.30027707.chunk.css",
-    "static/js/main.d8b2ed71.chunk.js"
+    "static/js/2.f4f778d6.chunk.js",
+    "static/css/main.6c3e00b7.chunk.css",
+    "static/js/main.b627c191.chunk.js"
   ]
 }
