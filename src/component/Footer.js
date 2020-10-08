@@ -14,7 +14,7 @@ class Footer extends React.Component {
                                     <span class="icon-list-icon">
                                         <i class="" aria-hidden="true"> <img width="50px" src="https://github.com/JuliethQP/Portafolio-reto/blob/master/icons8-whatsapp-48.png?raw=true" alt="" /></i>
                                     </span>
-                                    <span class="elementor-icon-list-text text-white">31113873520 </span>
+                                    <span class="elementor-icon-list-text text-white">3113873520 </span>
                                 </li>
                                 <li class="icon-list-item">
                                     <span class="elementor-icon-list-icon">
