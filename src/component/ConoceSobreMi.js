@@ -15,11 +15,7 @@ class ConoceSobreMi extends React.Component {
                         </div>
                         <div className="col mt-4 justify-content-justify align-content-center flex-wrap" id="secondcolumn">
                             <p className="" id="texto-conoce-sobre-mi">
-                                Bioingeniera de la Universidad de Antioquia. Con conocimientos básicos en: ANSYS, lenguaje de programación
-                                en C++ , Python, CSS, html, y JavaScript (desarrolladora Web Front-End).
-                                <br />
-                                Me caracterizo por ser una persona responsable, proactiva, dinámica, puntual, paciente y colaboradora; tengo
-                                aptitudes para el trabajo en equipo, liderazgo, buenas relaciones interpersonales, dispuesta a aprender.
+                            Julieth has analytical skills to solve problems. As a programmer, Julieth has been helping to develop programming abilities and evaluating video games for the students in a Bootcamp, Julieth currently contributing to internal developments as a front-end engineer using modern technologies like react J’s .. Julieth's training as an engineer allows her to understand problems multidisciplinary and agility in the acquisition of new knowledge.
                             </p>
                         </div>
                     </div>
@@ -28,4 +24,5 @@ class ConoceSobreMi extends React.Component {
         )
     }
 }
+
 export default ConoceSobreMi;

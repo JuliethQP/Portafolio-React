@@ -158,12 +158,12 @@ class ConoceMiPortafolio extends React.Component {
                 </div>
                 <div className="container" id="trabajo-equipo">
                     <div>
-                        <h1 className="titulo"> <strong>Trabajo en equipo</strong></h1>
+                        <h1 className="titulo"> <strong>Team Work: Geek Academy</strong></h1>
                         <div className="row mr-10 ml-10">
                             <div className="col mt-3" id="firstcolum">
                                 <div className="card mb-4 shadow-sm" id="card-contenedor">
                                     <div className="card-header">
-                                        <h4 className="my-0 font-weight-normal  text-center">Reto 1 Academia Geek</h4>
+                                        <h4 className="my-0 font-weight-normal  text-center">Challenge 1</h4>
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={reto1} alt="" />
@@ -177,7 +177,7 @@ class ConoceMiPortafolio extends React.Component {
                             <div className="col mt-3" id="firstcolum">
                                 <div className="card mb-4 shadow-sm" id="card-contenedor">
                                     <div className="card-header">
-                                        <h4 className="my-0 font-weight-normal  text-center">Aplicación de reciclaje</h4>
+                                        <h4 className="my-0 font-weight-normal  text-center">Challenge 2: recycling app</h4>
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={ecopay} alt="" />
