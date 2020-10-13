@@ -146,7 +146,7 @@ class ConoceMiPortafolio extends React.Component {
                                     </div>
                                     <div className="card-body">
                                         <img className="card-img" src={react} alt="" />
-                                        <a href="https://prueba-tecnica-julieth.netlify.app/">
+                                        <a href="https://repositories.netlify.app/">
                                             <button type="button" className="btn btn-lg btn-block btn-dark">
                                                 Ir...</button>
                                         </a>
